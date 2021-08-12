@@ -2,69 +2,63 @@
 # Material Count: 6
 
 newmtl Paint_-_Metallic_(Black)
-Ns 96.078431
 Ka 1.000000 1.000000 1.000000
-Kd 0.020313 0.020313 0.020313
+Kd 0.640000 0.640000 0.640000
 Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
+Ns 96.078431
 Ni 1.000000
 d 1.000000
-illum 2
+illum 0
 map_Kd https://raw.githubusercontent.com/f-tdi/008/5a5b17d7b2e7caad0a7fd8448df57fe9d9307a29/project_1/images/train.jpg
 
 
 newmtl Paint_-_Metallic_(Blue)
-Ns 96.078431
-Ka 1.000000 1.000000 1.000000
-Kd 0.000000 0.041289 0.640000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.000000
-d 1.000000
-illum 2
-map_Kd https://raw.githubusercontent.com/f-tdi/008/5a5b17d7b2e7caad0a7fd8448df57fe9d9307a29/project_1/images/train.jpg
-
-newmtl Paint_-_Metallic_(Green)
-Ns 96.078431
-Ka 1.000000 1.000000 1.000000
-Kd 0.005466 0.166332 0.009287
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.000000
-d 1.000000
-illum 2
-map_Kd https://raw.githubusercontent.com/f-tdi/008/5a5b17d7b2e7caad0a7fd8448df57fe9d9307a29/project_1/images/train.jpg
-
-newmtl Paint_-_Metallic_(Red)
-Ns 96.078431
-Ka 1.000000 1.000000 1.000000
-Kd 0.640000 0.000000 0.007835
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.000000
-d 1.000000
-illum 2
-map_Kd https://raw.githubusercontent.com/f-tdi/008/5a5b17d7b2e7caad0a7fd8448df57fe9d9307a29/project_1/images/train.jpg
-
-newmtl Paint_-_Metallic_(Silver)
-Ns 96.078431
 Ka 1.000000 1.000000 1.000000
 Kd 0.640000 0.640000 0.640000
 Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
+Ns 96.078431
 Ni 1.000000
 d 1.000000
-illum 2
+illum 0
+map_Kd https://raw.githubusercontent.com/f-tdi/008/5a5b17d7b2e7caad0a7fd8448df57fe9d9307a29/project_1/images/train.jpg
+
+newmtl Paint_-_Metallic_(Green)
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ns 96.078431
+Ni 1.000000
+d 1.000000
+illum 0
+map_Kd https://raw.githubusercontent.com/f-tdi/008/5a5b17d7b2e7caad0a7fd8448df57fe9d9307a29/project_1/images/train.jpg
+
+newmtl Paint_-_Metallic_(Red)
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ns 96.078431
+Ni 1.000000
+d 1.000000
+illum 0
+map_Kd https://raw.githubusercontent.com/f-tdi/008/5a5b17d7b2e7caad0a7fd8448df57fe9d9307a29/project_1/images/train.jpg
+
+newmtl Paint_-_Metallic_(Silver)
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ns 96.078431
+Ni 1.000000
+d 1.000000
+illum 0
 map_Kd https://raw.githubusercontent.com/f-tdi/008/5a5b17d7b2e7caad0a7fd8448df57fe9d9307a29/project_1/images/train.jpg
 
 newmtl Paint_-_Metallic_(Yellow)
-Ns 96.078431
 Ka 1.000000 1.000000 1.000000
-Kd 0.640000 0.586140 0.000000
+Kd 0.640000 0.640000 0.640000
 Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
+Ns 96.078431
 Ni 1.000000
 d 1.000000
-illum 2
+illum 0
 map_Kd https://raw.githubusercontent.com/f-tdi/008/5a5b17d7b2e7caad0a7fd8448df57fe9d9307a29/project_1/images/train.jpg
 
