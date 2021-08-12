@@ -9,7 +9,7 @@ Ns 96.078431
 Ni 1.000000
 d 1.000000
 illum 0
-map_Kd https://raw.githubusercontent.com/f-tdi/008/5a5b17d7b2e7caad0a7fd8448df57fe9d9307a29/project_1/images/train.jpg
+map_Kd https://raw.githubusercontent.com/f-tdi/008/main/project_1/images/materials/treebark.jpg
 
 
 newmtl Paint_-_Metallic_(Blue)
@@ -20,7 +20,7 @@ Ns 96.078431
 Ni 1.000000
 d 1.000000
 illum 0
-map_Kd https://raw.githubusercontent.com/f-tdi/008/5a5b17d7b2e7caad0a7fd8448df57fe9d9307a29/project_1/images/train.jpg
+map_Kd https://raw.githubusercontent.com/f-tdi/008/main/project_1/images/materials/treebark.jpg
 
 newmtl Paint_-_Metallic_(Green)
 Ka 1.000000 1.000000 1.000000
@@ -30,7 +30,7 @@ Ns 96.078431
 Ni 1.000000
 d 1.000000
 illum 0
-map_Kd https://raw.githubusercontent.com/f-tdi/008/5a5b17d7b2e7caad0a7fd8448df57fe9d9307a29/project_1/images/train.jpg
+map_Kd https://raw.githubusercontent.com/f-tdi/008/main/project_1/images/materials/treebark.jpg
 
 newmtl Paint_-_Metallic_(Red)
 Ka 1.000000 1.000000 1.000000
@@ -40,7 +40,7 @@ Ns 96.078431
 Ni 1.000000
 d 1.000000
 illum 0
-map_Kd https://raw.githubusercontent.com/f-tdi/008/5a5b17d7b2e7caad0a7fd8448df57fe9d9307a29/project_1/images/train.jpg
+map_Kd https://raw.githubusercontent.com/f-tdi/008/main/project_1/images/materials/treebark.jpg
 
 newmtl Paint_-_Metallic_(Silver)
 Ka 1.000000 1.000000 1.000000
@@ -50,7 +50,7 @@ Ns 96.078431
 Ni 1.000000
 d 1.000000
 illum 0
-map_Kd https://raw.githubusercontent.com/f-tdi/008/5a5b17d7b2e7caad0a7fd8448df57fe9d9307a29/project_1/images/train.jpg
+map_Kd https://raw.githubusercontent.com/f-tdi/008/main/project_1/images/materials/treebark.jpg
 
 newmtl Paint_-_Metallic_(Yellow)
 Ka 1.000000 1.000000 1.000000
@@ -60,5 +60,5 @@ Ns 96.078431
 Ni 1.000000
 d 1.000000
 illum 0
-map_Kd https://raw.githubusercontent.com/f-tdi/008/5a5b17d7b2e7caad0a7fd8448df57fe9d9307a29/project_1/images/train.jpg
+map_Kd https://raw.githubusercontent.com/f-tdi/008/main/project_1/images/materials/treebark.jpg
 
