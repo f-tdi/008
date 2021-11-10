@@ -1,9 +1,11 @@
 AFRAME.registerComponent('markerhandler', {
     
     init: function() {
-        init: function() {
-                this.el.addEventListener('click', () => {
+        const animatedMarker = document.querySelector("#animated-marker");
+                animatedMarker.addEventListener('click', () => {
                     alert('Clicked!')
  		    //window.location.assign("https://www.w3schools.com")
                 });
         }});
+
+    
