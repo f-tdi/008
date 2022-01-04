@@ -13,7 +13,7 @@ AFRAME.registerComponent("gesture-handler", {
     this.handleRotation = this.handleRotation.bind(this);
 
     this.isVisible = false;
-    this.initialScale = this.el.object3D.getAttribute('scale').clone();
+    this.initialScale = this.el.object3D.scale.clone();
     this.scaleFactor = 1;
 
     this.el.sceneEl.addEventListener("markerFound", (e) => {
